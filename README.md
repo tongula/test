@@ -1,2 +1,2 @@
-# test
-test creating a website with hugo
+# Capstone files
+temparaly storing files
